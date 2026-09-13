@@ -1,5 +1,5 @@
 # 🩺 Cebuano Doctor
-A locally running Cebuano healthcare chatbot using \*\*Google DeepMind Gemma 4\*\*, \*\*MedGemma\*\*, and \*\*Ollama\*\*.
+A locally running Cebuano healthcare chatbot using Google DeepMind Gemma 4, MedGemma, and Ollama.
 
 
 ## 📌 Project Overview
